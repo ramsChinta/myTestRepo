@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <parameters>
+    <routinesParameter id="_Dq9msIR-EeWCmqMucm3MSQ" name="DQTechnical"/>
+    <routinesParameter id="_DbeZMIR-EeWCmqMucm3MSQ" name="DataOperation"/>
+    <routinesParameter id="_DqzOoIR-EeWCmqMucm3MSQ" name="DataQualityDependencies"/>
+    <routinesParameter id="_DquWIIR-EeWCmqMucm3MSQ" name="DataQuality"/>
+    <routinesParameter id="_Dq4HIIR-EeWCmqMucm3MSQ" name="DqStringHandling"/>
+    <routinesParameter id="_DqqEsIR-EeWCmqMucm3MSQ" name="MDM"/>
+    <routinesParameter id="_DouyEIR-EeWCmqMucm3MSQ" name="Mathematical"/>
+    <routinesParameter id="_Do04sIR-EeWCmqMucm3MSQ" name="Numeric"/>
+    <routinesParameter id="_Do6YQIR-EeWCmqMucm3MSQ" name="Relational"/>
+    <routinesParameter id="_Dqj-EIR-EeWCmqMucm3MSQ" name="SQLike"/>
+    <routinesParameter id="_Do-psIR-EeWCmqMucm3MSQ" name="StringHandling"/>
+    <routinesParameter id="_DqRDIIR-EeWCmqMucm3MSQ" name="TalendDataGenerator"/>
+    <routinesParameter id="_DqXJwIR-EeWCmqMucm3MSQ" name="TalendDate"/>
+    <routinesParameter id="_Dqd3cIR-EeWCmqMucm3MSQ" name="TalendString"/>
+  </parameters>
+</talendfile:ProcessType>
